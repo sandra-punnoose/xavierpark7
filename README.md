@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xavierpark7
+- 👋 Hi, I’m @sandra-punnoose
 - 👀 I’m interested in firmware, embedded systems & robotics
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on 👆
